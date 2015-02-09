@@ -1,5 +1,5 @@
 # GettingAndCleaningData
-Course project for Coursera Getting and Cleaning Data
+##Course project for Coursera Getting and Cleaning Data
 
 The purpose of this project is to produce a "tidy" dataset from data collected from the accelerometers from the Samsung Galaxy S smartphone. The description of the dataset is here -- http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
