@@ -4,8 +4,9 @@ Code Book for project for Coursera Getting and Cleaning Data
 ##Overview
 This code book describes the process for producing a "tidy" data set in a file called "tidy.txt" from the data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 
-##Obtain the data Download the data from
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+##Obtain the data 
+
+Download the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 and unzip the file. A directory "UCI HAR Dataset" will be created. The files from this directory used to create the tidy data set are:
 
 test/X_test.txt<br>
